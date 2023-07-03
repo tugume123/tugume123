@@ -11,3 +11,15 @@ Am Tugume Jullian Praise 👋
 - 💬 tel no: 0755919910/ 0770815180
 - 📫  
 - ⚡ 
+3rd July 2023
+we had a session about operating system and version control
+os include
+-windows
+-linux
+-BDS
+Unix was the father of linux and BDS
+in 1991 stackware linux was introduced followed by Debian, Redhat.
+things to consider when choosing an OS to use
+-know the use of OS  and what ur gonna store there.
+-end of life
+-IP address(static and DHCP)
