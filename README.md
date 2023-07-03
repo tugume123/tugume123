@@ -7,7 +7,7 @@ Am Tugume Jullian Praise 👋
 - 🌱 Currently doing my internship training at RENU
 - 👯 I’m good at networking, maintenance and repair
 - 🤔 u can reach me on tugumejullian@gmail.com
-- 💬 tel no: 0755919910
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 tel no: 0755919910/ 0770815180
+- 📫 
+- 😄 
+- ⚡ 
