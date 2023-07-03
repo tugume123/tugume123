@@ -2,7 +2,6 @@ Am Tugume Jullian Praise 👋
 
 **tugume123/tugume123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 A student at Kyambogo University.
 - 🌱 Currently doing my inernship training at RENU
