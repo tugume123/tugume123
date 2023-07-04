@@ -23,3 +23,4 @@ things to consider when choosing an OS to use
 -know the use of OS  and what ur gonna store there.
 -end of life
 -IP address(static and DHCP)
+4th July 2023
