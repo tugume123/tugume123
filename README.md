@@ -23,4 +23,17 @@ things to consider when choosing an OS to use
 -know the use of OS  and what ur gonna store there.
 -end of life
 -IP address(static and DHCP)
+
+
 4th July 2023
+i installed Ubuntu linux server on the VNC viewer and docker on it
+
+5th July 2023
+i successfully installed pihole on the Ubuntu server and viewed its dashboard.
+
+6th July 2023
+we were introduced to the installation of window VM 
+i installed the windows successfully though it was alittle tiresome
+
+7th July 2023
+installation of the active directory on our machines.
