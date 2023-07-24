@@ -37,3 +37,41 @@ i installed the windows successfully though it was alittle tiresome
 
 7th July 2023
 installation of the active directory on our machines.
+
+2nd WEEK
+-we had the introduction to internetworking
+which involved OSI  reference model, internetworking model,ethernett networking  and data encapsulation.
+-we talked about layer 2 switching and limitations, bridges and switches, 3 layer-3 switch functions, LAN switch types and spanning tree protocol.
+-we also learnt about VLANS( what are they and their benefits)
+-static and dynamic VLANS, trunking (access and trunk links)
+-TCP/IP and DoD model, format ofan ip address, classes of IP addresses, subnetting IPv4
+-We talked about static and dynamic routing(OSPF and ISIS), BGP 
+LESSONS LEARNT
+-OSI model in details knowing which elements, functions 
+-how to connect VLANS using different environments like GNS3 and packet tracer
+-subnetting 
+-IP planning
+-difference between static and dynamic routing
+-difference between layer2 and layer 3 switches and their respective functions.
+
+
+3rd WEEK
+continuation of routing using packet tracer and GNS3
+-we learnt basic switch and router cobfigurations 
+-configuring and managing VLANS and routing 
+-service providers and troubleshooting utilities
+
+LESSONS LEARNT
+-mob experience in managing and configuring VLANS
+-switch and router configurations
+
+
+4TH WEEK
+-We continued with OSPF and ISIS routing
+-we had a visit at the backbone of RENU at MU-JHU
+-we had a review about our project
+-we had a town hall meeting and later a happy hour
+
+LESSONS LEARNT
+I was motivated by the speakers in the meeting
+learnt more about OSPF and ISIS routing
