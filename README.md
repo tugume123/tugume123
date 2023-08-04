@@ -75,3 +75,41 @@ LESSONS LEARNT
 LESSONS LEARNT
 I was motivated by the speakers in the meeting
 learnt more about OSPF and ISIS routing
+
+5TH WEEK
+-A week full of Linux was an exciting journey, exploring the power of open-source technology.
+ I mastered the command-line interface, customized my environment, and automated tasks through scripting. 
+Learning package management, file system hierarchy, and networking added to the experience.
+ It was a rewarding and empowering week, deepening my passion for Linux and its possibilities
+
+LESSONS LEARNT
+Developing Troubleshooting Skills for Linux Systems.
+Security Best Practices and User Management.
+Familiarity with Linux File System Hierarchy and Permissions.
+Proficiency in Command-Line Interface (CLI) and Terminal Navigation.
+
+
+6TH WEEK
+A transformative week with NETWORK monitoring tools Nagios, Cacti, and LibreNMS. 
+Real-time insights, proactive issue resolution, and optimization of network resources. 
+Empowered with troubleshooting skills for reliable and efficient networks. 
+Excited to make a positive impact in network management. 
+
+HOW NAGIOS WORKS
+Nagios is an open-source network monitoring tool that continuously checks the health and performance of IT infrastructure. 
+It uses plugins to perform monitoring checks on devices and services, and the results are sent to the central Nagios server.
+The web interface displays real-time status and provides notifications for any issues. 
+Nagios helps IT teams proactively manage their network and infrastructure.
+
+HOW CACTI WORKS
+
+Cacti is a network graphing solution that collects data from SNMP-enabled devices and stores it in RRD databases.
+Using this data, it creates customizable graphs to visualize network performance. 
+The web interface allows users to access and interact with the graphs, analyze trends, set thresholds, and receive alerts for potential issues. 
+Cacti simplifies network monitoring and optimization.
+
+HOW LIBRENMS WORKS
+LibreNMS is an open-source network monitoring tool that collects data from SNMP and other protocols, storing it in a database. 
+It provides real-time status, customizable graphs, and flexible alerting. 
+The web interface allows users to access, visualize, and manage network performance efficiently. 
+Its modular design enables integration with other systems for seamless network management
